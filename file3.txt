@@ -2,4 +2,5 @@ D盘创建了file3，在F盘拉了file3之后，D盘第一次修改了file3.txt
 F盘第一次修改了file3，并提交。
 F盘第二次修改了file3，D盘等会也会改。
 D盘修改了file3，F盘也改了
+D盘在F盘第三次修改提交前也在同时改file3
 
